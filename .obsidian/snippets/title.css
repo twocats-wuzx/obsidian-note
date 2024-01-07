@@ -1,0 +1,7 @@
+.markdown-rendered h3, .markdown-rendered h4, .markdown-rendered h5, .markdown-rendered h6{
+  margin: 10px 0 8px 0;
+}
+
+.markdown-rendered h1, .markdown-rendered h2 {
+  margin: 20px 0 5px 0;
+}

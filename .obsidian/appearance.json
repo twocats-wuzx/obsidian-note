@@ -1,0 +1,14 @@
+{
+  "accentColor": "#dd2727",
+  "theme": "obsidian",
+  "cssTheme": "Atom",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Monaco,LXGW WenKai Screen",
+  "monospaceFontFamily": "Monaco",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "table",
+    "title",
+    "content"
+  ]
+}

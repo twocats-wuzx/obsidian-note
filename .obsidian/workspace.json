@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "6c572e9c40500397",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25dc34ed314ab29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8674eb2ee040671c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/Docker的安装和使用/201 - Docker-ce的安装和卸载.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50dcf4234801d8c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0361b9dec28349a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc3fd0ed9e0312ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "414f72aabcc32f16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4764bb53ed82335",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5d186214a12cd70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "55433996f6ae0ad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ff40af645b1844",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ad4b87083268643",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/Docker的安装和使用/201 - Docker-ce的安装和卸载.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45146c341f5571d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/Docker的安装和使用/201 - Docker-ce的安装和卸载.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52cb1f9b94a17efb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7b7bd48fcd56408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/Docker的安装和使用/201 - Docker-ce的安装和卸载.md"
+              }
+            }
+          },
+          {
+            "id": "3fff04cec0326cd3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "e935b7b07295f0b3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "8674eb2ee040671c",
+  "lastOpenFiles": [
+    "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/Docker的安装和使用/100 - Docker学习资料.md",
+    "09 - 收集器/2023-11-08.md",
+    "09 - 收集器/2023-07-20.md",
+    "09 - 收集器/2023-07-14.md",
+    "09 - 收集器/Service Document.md",
+    "测试用例.md",
+    "09 - 收集器/Inner Document.md",
+    "未命名",
+    "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/网络相关/网络相关命令使用技巧.md",
+    "Pasted image 20230919205655.png",
+    "Pasted image 20230904210258.png",
+    "Pasted image 20230919204822.png",
+    "03 - 私活文档/20230904-传奇私服网关/传奇网关部署.md",
+    "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/Docker的安装和使用/201 - Docker-ce的安装和卸载.md",
+    "01 - 开发笔记/301 - 开发程序语言/30120 - Java/300 - Java FX/「001-01」表格 Table-View.md",
+    "01 - 开发笔记/301 - 开发程序语言/30120 - Java/201 - Spring Security/「000」过滤器与Security.pdf",
+    "01 - 开发笔记/301 - 开发程序语言/30120 - Java/201 - Spring Security/「001-00」认证Authentication.pdf",
+    "01 - 开发笔记/301 - 开发程序语言/30120 - Java/201 - Spring Security/「001-03」Remember-Me.pdf",
+    "01 - 开发笔记/301 - 开发程序语言/30120 - Java/201 - Spring Security/「001-02」会话管理 Session Management.pdf",
+    "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/Docker的安装和使用/301 - Docker安装常见应用.md",
+    "01 - 开发笔记/301 - 开发程序语言/30120 - Java/300 - Java FX",
+    "03 - 私活文档/20230929-邮件补发/邮件补发.md",
+    "01 - 开发笔记/201 - 开发使用的软件和第三方服务使用技巧/Linux中的程序安装及使用技巧/网络相关/各种Linux系统通过代理使用包管理工具.md",
+    "Pasted image 20230930161734.png",
+    "Pasted image 20230930161657.png",
+    "Pasted image 20230930161516.png",
+    "Pasted image 20230930161254.png",
+    "Pasted image 20230930161246.png",
+    "Pasted image 20230930160907.png",
+    "Pasted image 20230930160746.png",
+    "03 - 私活文档/20230919-我的商城/我的商城文档.md",
+    "03 - 私活文档/20230929-邮件补发/image",
+    "03 - 私活文档/20230929-邮件补发",
+    "08 - 各种CLI操作系统使用小技巧/Mac安装软件不能打开的解决方案.md",
+    "08 - 各种CLI操作系统使用小技巧/Mac上使用BUG汇总及解决方案.md",
+    "01 - 开发笔记/202 - 通用服务或技术/20220 - 开发环境搭建/Docker/101 - 从Docker到K8s进阶/1.课程介绍.md",
+    "01 - 开发笔记/202 - 通用服务或技术/20220 - 开发环境搭建/Docker/101 - 从Docker到K8s进阶/3.镜像和容器的基本操作.md",
+    "02 - 软件使用技巧/100 - IDE/10001 - Microsoft Visual Studio/安装低版本.NET开发目标包.md",
+    "03 - 私活文档/20230919-我的商城",
+    "03 - 私活文档/20230904-传奇私服网关/iamge",
+    "01 - 开发笔记/202 - 通用服务或技术/20220 - 开发环境搭建/Docker/101 - 从Docker到K8s进阶/2.Docker 简介.md",
+    "01 - 开发笔记/302 - 通用开发知识/30210 - 代码规范&设计/设计模式/规范与重构.md",
+    "01 - 开发笔记/302 - 通用开发知识/30210 - 代码规范&设计/设计模式/「设计模式」代码质量.md",
+    "01 - 开发笔记/302 - 通用开发知识/30210 - 代码规范&设计/设计模式/图片仓库/规范与重构.md",
+    "01 - 开发笔记/301 - 开发程序语言/30130 - C和C++/100 - C语言基础/「104」测试.md",
+    "01 - 开发笔记/301 - 开发程序语言/30130 - C和C++/100 - C语言基础/「103-01」数据类型与变量 - C语言中的整数.md"
+  ]
+}
